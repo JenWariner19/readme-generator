@@ -1,26 +1,26 @@
-# gf
+  
+# README Generator
 
-          ## Description 
-          gfh
+## Description 
+Create a readme file using node.js
 
-          ## Installation
-          fhg
+## Installation
+Follow the instructions in the video to create your file.
 
-          ## Usage
-          gfh
+## Usage
+Can create README files for GitHub repositories.
 
-          ## Contributions
-          gfh
+## Contributions
+N/A
 
-          ## Test
-          gfs
+## Test
+enter node index.js into the terminal 
 
-          ## License
-          MIT
+## License
+MIT
 
-          ## GitHub Profile
-          gfs
+## GitHub Profile
+JenWariner19
 
-          ## Email
-          gfsh
-        
+## Email
+jenniferwariner@yahoo.com
