@@ -54,7 +54,7 @@ function renderLicenseSection(license) {
   if (license === "None") {
     licenseSection = "";
   } else {
-    licenseSection = `Licensed under the ${license} license, which can be viewed at: ${renderLicenseLink(license)}`;
+    licenseSection = `Licensed under the [${license} license]${renderLicenseLink(license)}`;
   }
   return licenseSection;
 }
@@ -64,7 +64,7 @@ function generateMarkdown(data) {
   return `  
 # ${data.title}
 
-${renderLicenseBadge(data.license)};
+${renderLicenseBadge(data.license)}
 
 ## Description 
 ${data.description}
@@ -90,11 +90,11 @@ ${data.contribution}
 ${data.test}
 
 ## License
-${renderLicenseSection(data.license)};
+${renderLicenseSection(data.license)}
 
 ## Questions
 You can view my GitHub profile here: [${data.github}](https://github.com/${data.github})<br>
-If you have any questions and would like to contact me, you can email me at [${data.email}](mailto:${data.email}).
+If you have any questions and would like to contact me, you can email me at: [${data.email}](mailto:${data.email})
 `;
 }
 

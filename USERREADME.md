@@ -1,10 +1,10 @@
   
-# Jen
+# README Generator
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT);
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description 
-Desc
+Utilized node.js to create a README file
 
 ## Table of Contents
 1. [Installation](#installation)
@@ -15,20 +15,20 @@ Desc
 6. [Questions](#questions)
 
 ## Installation
-Install
+Please see install video
 
 ## Usage
-Use
+To create a README file for your GitHub repository
 
 ## Contributing
-Comt
+None
 
 ## Tests
-Test
+Type node index.js into the terminal and anwer the questions
 
 ## License
-Licensed under the MIT which can be viewed at: (https://opensource.org/license/mit/);
+Licensed under the [MIT license](https://opensource.org/license/mit/)
 
 ## Questions
-You can view my GitHub profile here: [Jen](https://github.com/Jen)<br>
-If you have any questions and would like to contact me, you can email me at [Jenn](mailto:Jenn).
+You can view my GitHub profile here: [JenWariner19](https://github.com/JenWariner19)<br>
+If you have any questions and would like to contact me, you can email me at: [jenniferwariner@yahoo.com](mailto:jenniferwariner@yahoo.com)
