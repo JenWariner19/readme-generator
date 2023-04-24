@@ -63,11 +63,11 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(data) {
-    fs.writeFile('README.md', data, (err) => {
+    fs.writeFile('SAMPLEREADME.md', data, (err) => {
         if(err) {
             console.error('Please provide the correct information.', err);
         } else {
-            console.log('README file has been saved as README.md')
+            console.log('README file has been saved as SAMPLEREADME.md')
         }
     })
 }
